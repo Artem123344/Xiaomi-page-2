@@ -116,7 +116,7 @@ section .left p {
 .left .main_p_1 {
     font-size:150%;
     padding-left:15%;
-    padding-top:unset;
+    padding-top:2%;
 } 
 
 .left a {
@@ -142,12 +142,12 @@ section .left p {
     padding-top:2%;
     font-size:210%;
     padding-left:30%;
-    padding-right:0%;
+    padding-right:20%;
 }
 
 .right .main_p_1 {
     font-size:150%;
-    padding-left:18%;
+    padding-left:20%;
     padding-top:unset;
 }
 
